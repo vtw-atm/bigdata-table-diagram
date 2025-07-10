@@ -5889,7 +5889,7 @@
             <mxRectangle width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wMFBmt5i6NToWMyMItFT-53" value="provide_data" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wMFBmt5i6NToWMyMItFT-53" value="제공데이터" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="757" y="1144" width="260" height="360" as="geometry" />
         </mxCell>
         <mxCell id="wMFBmt5i6NToWMyMItFT-54" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;rounded=0;" vertex="1" parent="wMFBmt5i6NToWMyMItFT-53">
@@ -5900,7 +5900,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wMFBmt5i6NToWMyMItFT-56" value="provide_data_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;rounded=0;" vertex="1" parent="wMFBmt5i6NToWMyMItFT-54">
+        <mxCell id="wMFBmt5i6NToWMyMItFT-56" value="제공데이터 ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;rounded=0;" vertex="1" parent="wMFBmt5i6NToWMyMItFT-54">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -5918,7 +5918,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wMFBmt5i6NToWMyMItFT-60" value="provide_data_name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=0;" vertex="1" parent="wMFBmt5i6NToWMyMItFT-58">
+        <mxCell id="wMFBmt5i6NToWMyMItFT-60" value="제공데이터명" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=0;" vertex="1" parent="wMFBmt5i6NToWMyMItFT-58">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -5936,7 +5936,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wMFBmt5i6NToWMyMItFT-64" value="base_table_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=0;" vertex="1" parent="wMFBmt5i6NToWMyMItFT-62">
+        <mxCell id="wMFBmt5i6NToWMyMItFT-64" value="기준테이블 ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=0;" vertex="1" parent="wMFBmt5i6NToWMyMItFT-62">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -5954,7 +5954,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wMFBmt5i6NToWMyMItFT-68" value="제공 테이블" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=0;" vertex="1" parent="wMFBmt5i6NToWMyMItFT-66">
+        <mxCell id="wMFBmt5i6NToWMyMItFT-68" value="제공테이블" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=0;" vertex="1" parent="wMFBmt5i6NToWMyMItFT-66">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -5972,7 +5972,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wMFBmt5i6NToWMyMItFT-72" value="use_inst_name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=0;" vertex="1" parent="wMFBmt5i6NToWMyMItFT-70">
+        <mxCell id="wMFBmt5i6NToWMyMItFT-72" value="이용기관명" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=0;" vertex="1" parent="wMFBmt5i6NToWMyMItFT-70">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -5990,7 +5990,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wMFBmt5i6NToWMyMItFT-76" value="data_type" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=0;" vertex="1" parent="wMFBmt5i6NToWMyMItFT-74">
+        <mxCell id="wMFBmt5i6NToWMyMItFT-76" value="데이터 유형" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=0;" vertex="1" parent="wMFBmt5i6NToWMyMItFT-74">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -6008,7 +6008,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wMFBmt5i6NToWMyMItFT-80" value="use_inst_data_type" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=0;" vertex="1" parent="wMFBmt5i6NToWMyMItFT-78">
+        <mxCell id="wMFBmt5i6NToWMyMItFT-80" value="이용기관 데이터 유형" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=0;" vertex="1" parent="wMFBmt5i6NToWMyMItFT-78">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -6026,7 +6026,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wMFBmt5i6NToWMyMItFT-84" value="kafka_topic" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=0;" vertex="1" parent="wMFBmt5i6NToWMyMItFT-82">
+        <mxCell id="wMFBmt5i6NToWMyMItFT-84" value="카프카 토픽" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=0;" vertex="1" parent="wMFBmt5i6NToWMyMItFT-82">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -6062,7 +6062,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wMFBmt5i6NToWMyMItFT-92" value="schedule" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=0;" vertex="1" parent="wMFBmt5i6NToWMyMItFT-90">
+        <mxCell id="wMFBmt5i6NToWMyMItFT-92" value="스케줄" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=0;" vertex="1" parent="wMFBmt5i6NToWMyMItFT-90">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
